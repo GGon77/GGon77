@@ -1,4 +1,4 @@
 - #Sobre mim
-- 👋 Oi meu nome é @GGon77
+- 👋 Oi meu nome é @**GGon77**
 - 👀 Estou interesado em aprender a programar novas linguagens.
 - 🌱 Estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
